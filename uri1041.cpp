@@ -2,8 +2,7 @@
 int main()
 {
 	float x,y;
-	while(1)
-	{
+
 	scanf("%f%f",&x,&y);
 	if (x>0 && y>0)
 	{
@@ -36,7 +35,7 @@ int main()
 			printf("Eixo Y\n");
 		}
 
-	}
+	
 	}
 	return 0;
 }
